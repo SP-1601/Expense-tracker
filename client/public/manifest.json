@@ -1,0 +1,8 @@
+{
+  "short_name": "expense APP",
+  "name": "expense tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000001",
+  "background_color": "#fdfbff"
+}
